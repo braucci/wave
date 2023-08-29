@@ -1,7 +1,6 @@
 ## Presentazione del Codice per la Simulazione della Propagazione dell'Onda
 
-![Uploading wave_simulation.gif…]()
-
+![wave_simulation](https://github.com/braucci/wave/assets/16705368/f06c691e-c007-4111-b2ca-28a7dbd2e62f)
 
 Il seguente codice Python è un'applicazione del metodo delle differenze finite per simulare la propagazione di un'onda in un dominio bidimensionale quadrato. Questo esempio pratico ha diverse finalità educative e dimostrative:
 
